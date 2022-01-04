@@ -5,7 +5,7 @@ Contains
 - Basic CRUD
 - Pagination
 - Subscriptions
-- dataloaders
+- Dataloaders
 
 # install dependencies
 
